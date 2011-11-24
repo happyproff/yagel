@@ -1,0 +1,18 @@
+.frmt {}
+    .frmt {font-size:12px; line-height:15px;}
+    .frmt p {margin-bottom:0.7em;}
+    .frmt img {margin-bottom:0.7em;}
+        .frmt img.alignleft {float:left; margin:0 0.7em 0.7em 0;}
+        .frmt img.alignright {float:right; margin:0 0 0.7em 0.7em;}
+    .frmt ul, .frtm ol {margin-bottom:0.7em; list-style-position:inside;}
+    .frmt ul {list-style-type:square;}
+        .frmt ul li {list-style-type:square; list-style-position:inside;}
+    .frmt b, .frmt strong {font-weight:bold;}
+    .frmt sub {vertical-align:sub; font-size:smaller;}
+    .frmt sup {vertical-align:super; font-size:smaller;}
+    .frmt pre {padding:15px; white-space:pre; white-space:pre-wrap; white-space:pre-line; word-wrap:break-word;}
+    .frmt small {font-size:85%;}
+    .frmt table {}
+    /*TODO:make styles for tables and quotes*/
+    td, td img { vertical-align:top; }
+    pre, code, kbd, samp {font-family: monospace, sans-serif;}

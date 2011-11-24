@@ -1,0 +1,5 @@
+.clearfix:before, .clearfix:after {content: "\0020"; display: block; height: 0; visibility: hidden;}
+.clearfix:after {clear: both;}
+.m-hiddentext {text-indent:-9999px; font-size:0; line-height:0;}
+input:invalid, textarea:invalid {background-color: #f0dddd;}
+.inline-block {display: inline-block; zoom: 1; *display: inline;}
