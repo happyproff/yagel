@@ -1,6 +1,18 @@
+@import "yagel/yagel.reset.css";
+@import "yagel/yagel.fw.css";
+@import "yagel/yagel.frmt.css";
+
 html {background:#fff;}
-body {font:13px/1.231 sans-serif; *font-size:small;}
-body, select, input, textarea, button {font-family:Tahoma, Arial; color:#444;}
+body {font:13px/1.231 'PT Sans', Tahoma, Arial, sans-serif; *font-size:small;}
+body, select, input, textarea, button {font-family:'PT Sans', Tahoma, Arial, sans-serif; color:#000;}
 
 a, a:link, a:active, a:visited {color:#2d70c3; text-decoration:underline;}
 a:hover {color:#133c5d !important; text-decoration:underline;}
+
+.global {}
+
+.header {}
+
+.content {}
+
+.footer {}
