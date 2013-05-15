@@ -9,10 +9,12 @@ body, select, input, textarea, button {font-family:'PT Sans', Tahoma, Arial, san
 a, a:link, a:active, a:visited {color:#2d70c3; text-decoration:underline;}
 a:hover {color:#133c5d !important; text-decoration:underline;}
 
-.global {}
+.global {width:960px;}
 
 .header {}
 
-.content {}
+.middle {}
+.middle_left {}
+.middle_right {}
 
 .footer {}
